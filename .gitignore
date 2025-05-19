@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de log
+*.log
+
+# Base de datos local (si usas SQLite o similares)
+*.sqlite
+*.db
+
+# Salida de producción o caché
+dist/
+build/
+coverage/
+
+# PM2 logs
+pids/
+logs/
